@@ -46,8 +46,10 @@ Will be updated soon!
         {% endfor %}
         </div>
       </div> -->
+    {% else %}
       <!-- <div class="grid">
         {% for project in sorted_projects %}
+          {% include projects.html %}
         {% endfor %}
       </div> -->
     {% endif %}
