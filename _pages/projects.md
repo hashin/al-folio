@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A Showcase of Projects I am experimenting with.
 nav: true
-display_categories: [work, fun]
+display_categories: [history, literature, culture]
 horizontal: false
+social: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
@@ -53,5 +54,13 @@ horizontal: false
     {% endif %}
 
   {% endif %}
+  {% if page.social %}
+    <div class="social">
+      <div class="contact-icons">
+        {% include social.html %}
+      </div>
+      <div class="contact-note">{{ site.contact_note }}</div>
+    </div>
+    {% endif %}
 
 </div>

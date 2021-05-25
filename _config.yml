@@ -43,7 +43,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: hashin
 gitlab_username: # your GitLab user name
-twitter_username: #HashinJithu
+twitter_username: HashinJithu
 linkedin_username: hashinjithu
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -55,13 +55,13 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: hashin
 wikidata_id: # your wikidata id
+instagram_username: flawmon
 
 contact_note: >
   Feel free to get in touch with me!
 
 google_analytics: UA-38434239-3 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
-
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
