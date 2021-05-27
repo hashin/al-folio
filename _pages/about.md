@@ -26,6 +26,6 @@ I am into books, travel, debates and a bit of tech. I write about a lot of irrel
 
 I speak and write on a wide variety of issues and try to make them meaningful and impactful. I have found that the best of human learning comes from sharing and being respectful to our fellow beings. Knowledge may come from everywhere, but wisdom truly comes from a kind, accommodative and respectful place. If you believe in this, feel free to connect with me. I strongly suggest that you <a href="https://blog.hashin.me/" target="_blank">read</a> me before we get in touch!
 
-Love,
+Love, <br>
 Hashin Jithu
 
