@@ -18,6 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Scroll down to the "news" section below to get to what I read today episodes and book recommendations!
 
 `A melancholy-looking man, he had the appearance of one who has searched for the leak in life's gas-pipe with a lighted candle.`  
 `~ P.G Wodehouse.`
